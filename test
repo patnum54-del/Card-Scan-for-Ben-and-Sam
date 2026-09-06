@@ -7,7 +7,7 @@ import streamlit as st
 # CONFIGURATION
 # ---------------------------------------------------------
 # Paste your Ximilar API Key between the quotes below
-XIMILAR_API_TOKEN = "YOUR_XIMILAR_API_KEY_HERE"
+XIMILAR_API_TOKEN = "7b8b752d260eb1dfd0af4935f41b32fc86200811"
 XIMILAR_ENDPOINT = "https://api.ximilar.com/collectibles/v2/sport_id"
 
 # ---------------------------------------------------------
